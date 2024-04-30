@@ -17,19 +17,6 @@ Statistical Analysis: Using statistical methods to validate the findings and hyp
 Recommendations: Based on the analysis, providing strategic recommendations to maximize profits.
 Installation
 
-# To run this project, you need to have Python installed on your system. You can install the required libraries using the following command:
-
-bash
-Copy code
-pip install notebook pandas numpy matplotlib
-Usage
-
-To view and run the Jupyter Notebook, navigate to the project directory and run the following command:
-
-bash
-Copy code
-jupyter notebook shoppingmall.ipynb
-Follow the instructions in the notebook to explore the analysis.
 
 # Contributing
 
