@@ -21,7 +21,7 @@ Understand customer behavior patterns, identify peak purchasing times, and build
 Identify sales patterns and customer drop-off behavior to support data-driven marketing and personalized coupon campaigns.
 
 ---
-## 📈 Project Workflow
+## Project Workflow
 
 ### 1. Data Cleaning & Feature Engineering
 
@@ -36,32 +36,32 @@ Identify sales patterns and customer drop-off behavior to support data-driven ma
 
 ### 2. Sales by Country
 
-- 🇬🇧 UK alone accounts for **7.3 million+** in sales  
+- UK alone accounts for **7.3 million+** in sales  
 - The next top country (Netherlands) only reaches ~285,000
 
-📊 **Sales by Country (Bar Chart)**  
+ **Sales by Country (Bar Chart)**  
 ![Sales by Country](./Graphs4ShoppingMall/salesbyCountry.png)
 
-📃 **Sales Breakdown Table**  
+**Sales Breakdown Table**  
 ![Sales Table](./Graphs4ShoppingMall/sales_country.png)
 
 ---
 
 ### 3. Sales Trend Analysis
 
-📆 **Monthly Sales Trend**  
+**Monthly Sales Trend**  
 - November shows the highest spike  
 - December looks lower due to partial data
 
 ![Sales by Month](./Graphs4ShoppingMall/salesbymonth.png)
 
-📅 **Sales by Weekday**  
+**Sales by Weekday**  
 - Strongest activity: Mon → Fri  
 - Zero activity on Saturday
 
 ![Sales by Day](./Graphs4ShoppingMall/salesbyday.png)
 
-🕒 **Sales by Hour (Time of Day)**  
+**Sales by Hour (Time of Day)**  
 - Orders spike around **10–12 PM**
 - Sharp decline after **3 PM**
 
@@ -74,7 +74,7 @@ Identify sales patterns and customer drop-off behavior to support data-driven ma
 - Monthly cohorts based on first purchase
 - Retention drops to ~10% by month 3–4
 
-📊 **Cohort Heatmap**  
+**Cohort Heatmap**  
 ![Cohort Retention Heatmap](./Graphs4ShoppingMall/#heatmap from cohort analysis.png)
 
 ---
@@ -85,12 +85,12 @@ Identify sales patterns and customer drop-off behavior to support data-driven ma
 - Only 84 completed the order  
 - Major drop-off at `/cart`
 
-📉 **Funnel Visualization**  
+**Funnel Visualization**  
 ![Funnel Chart](./Graphs4ShoppingMall/funnel.png)
 
 ---
 
-## 🧠 Tools Used
+## Tools Used
 
 - `Python`, `Pandas`, `NumPy`  
 - `Matplotlib`, `Seaborn` for plots  
