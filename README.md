@@ -40,7 +40,7 @@ Identify sales patterns and customer drop-off behavior to support data-driven ma
 - The next top country (Netherlands) only reaches ~285,000
 
  **Sales by Country (Bar Chart)**  
-![Sales by Country](./Graphs4ShoppingMall/#heatmap from cohort analysis.png)
+![Sales by Country](./Graphs4ShoppingMall/salesbyCountry.png)
 
 **Sales Breakdown Table**  
 ![Sales Table](./Graphs4ShoppingMall/sales_country.png)
@@ -75,7 +75,7 @@ Identify sales patterns and customer drop-off behavior to support data-driven ma
 - Retention drops to ~10% by month 3–4
 
 **Cohort Heatmap**  
-![Cohort Retention Heatmap](./#heatmap from cohort analysis.png)
+![Cohort Retention Heatmap](./Graphs4ShoppingMall/cohort_analysis.png)
 
 ---
 
